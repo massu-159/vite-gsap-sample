@@ -1,4 +1,7 @@
 # vite-gsap-sample
+![demo](https://github.com/user-attachments/assets/e7baefb6-f397-472f-a775-93d657f0d9af)
+
+
 
 Vite x React x GSAP を使ったアニメーションサンプル
 
